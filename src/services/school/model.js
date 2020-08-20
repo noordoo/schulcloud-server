@@ -18,6 +18,7 @@ const SCHOOL_FEATURES = {
 	MESSENGER: 'messenger',
 	STUDENTVISIBILITY: 'studentVisibility', // depricated
 	MESSENGER_SCHOOL_ROOM: 'messengerSchoolRoom',
+	LERNSTORE: 'lernstore',
 };
 
 const defaultFeatures = [];

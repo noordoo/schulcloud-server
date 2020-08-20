@@ -11,6 +11,7 @@ Allowed Types of change: `Added`, `Changed`, `Deprecated`, `Removed`, `Fixed`, `
 
 ### Added
 
+- SC-6239 - adding lern-store permission
 - SC-5612 - Adding search feature to the admintables for nuxt-client.
 
 ## [24.4.1] - 2020-08-31
